@@ -1,0 +1,3 @@
+# Chinchin
+Este es un proyecto de grado del Bootcamp, es la primera vez que estamos reunidos y basicamente somos un equipo pequeño con unas ideas enormes, durante esta primera revisión
+meteremos todos los mockups, paletas de colores y distribuciones de paginas...
